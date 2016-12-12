@@ -12,4 +12,4 @@
   <script src="NO URL YET."></script>
 ```
 ---
-<span style="color:red">Warning: Please read the NOTES</span>
+<font color="red">Warning: Please read the NOTES</font>
