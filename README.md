@@ -7,8 +7,9 @@
 # PLEASE NOTE THAT THIS DOESNT HAVE A URL YET!
 ---
 ## How to embed on site: 
-**Put this code between the _<head>_ tags**
+**Put this code between the _`<head>`_ tags**
 ```html
   <script src="NO URL YET."></script>
 ```
 ---
+<span style="color:red">Warning: Please read the NOTES</span>
