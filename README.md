@@ -20,6 +20,11 @@
   <script src="https://asuhdood.000webhostapp.com/jsiv.js"></script>
 ```
 ---
+
+
+
+# CONTACT:
+** - katie.love0671@gmail.com **
 # PLEASE NOTE:
 ```diff
 - If your having issues befor you complain make sure you have read all the Notes -
