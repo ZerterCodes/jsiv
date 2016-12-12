@@ -12,6 +12,7 @@
   <script src="NO URL YET."></script>
 ```
 ---
-# ```diff
-- Warning: Please read the NOTES -
+# PLEASE NOTE:
+```diff
+- If your having issues befor you complain make sure you have read all the Notes -
 ```
