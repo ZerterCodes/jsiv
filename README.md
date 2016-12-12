@@ -12,4 +12,6 @@
   <script src="NO URL YET."></script>
 ```
 ---
-<font color="red">Warning: Please read the NOTES</font>
+# ```diff
+- Warning: Please read the NOTES -
+```
