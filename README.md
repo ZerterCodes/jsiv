@@ -1,7 +1,7 @@
 # jsiv
 ---
 ## READ:
-**IMPORTANT: - jsiv is strictly made using only javascript for now,
+**IMPORTANT: - jsiv is strictly made using only javascript for now,**
 - 1. This site wont host the raw jsiv.js file, its ment to host the extensions for it like "consoleCommands.jsiv.js"
 - 2. Im still adding stuff to this so dont think im giving up
 - 3. if you have ANY ideas dont be scared to ask me, to ask me a question read: **contact** (Scroll down for it)
