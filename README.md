@@ -19,6 +19,16 @@
 ```html
   <script src="https://asuhdood.000webhostapp.com/jsiv.js"></script>
 ```
+**or if your lazy (like me) put this on your site (it should work)**
+```html
+<head>
+  <script src="https://asuhdood.000webhostapp.com/jsiv.js"></script>
+  <script>
+  onLoad()
+  </script>
+</head>
+```
+**PS. the `onLoad()` is used in jsiv to start running page loaded related stuff**
 ---
 
 
